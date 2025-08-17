@@ -1,0 +1,6 @@
+streamlit>=1.25
+pillow
+numpy
+tensorflow
+scikit-learn
+gdown
