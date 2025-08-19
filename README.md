@@ -108,6 +108,12 @@ Full package list is provided in `requirements.txt`.
 
 ---
 
+## Web application
+
+Check out the live demo of the app here: [https://resume-app-app-dz3g3usaw5kcmmzjfysqkx.streamlit.app](https://resume-app-app-dz3g3usaw5kcmmzjfysqkx.streamlit.app/)
+
+---
+
 ## Contact
 
 For any queries or suggestions, contact:
