@@ -108,18 +108,6 @@ Full package list is provided in `requirements.txt`.
 
 ---
 
-## Contributing
-
-Contributions and improvements are welcome. Please open an issue or submit pull requests.
-
----
-
-## License
-
-Specify your license here (e.g., MIT License).
-
----
-
 ## Contact
 
 For any queries or suggestions, contact:
